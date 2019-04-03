@@ -1,0 +1,10 @@
+Name,Quality,Object,Role
+JACK,Bad,0,Perpetrator
+WENDY,Good,0,Victim
+DANNY,Good,0,Victim
+ULLMAN,Neutral,0,Neutral
+HALLORAN,Good,0,Rescuer
+LLOYD,Bad,0,Perpetrator
+RANGER,Good,0,Rescuer
+DURKIN,Good,0,Neutral
+GRADY,Bad,0,Perpetrator

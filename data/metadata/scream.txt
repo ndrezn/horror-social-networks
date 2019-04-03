@@ -1,0 +1,17 @@
+Name,Quality,Object,Role
+SIDNEY,Good,0,Victim
+DEWEY,Good,0,Rescuer
+GALE,Good,0,Victim
+BILLY,Bad,0,Perpetrator
+STU,Bad,0,Perpetrator
+TATUM,Good,0,Victim
+RANDY,Good,0,Victim
+CASEY,Good,0,Victim
+BURKE,Good,0,Rescuer
+KENNY,Neutral,0,Victim
+COTTON,Good,0,Victim
+HIMBRY,Bad,0,Victim
+STEVE,Neutral,0,Victim
+NEIL,Neutral,0,Victim
+GHOSTFACE,Bad,0,Perpetrator
+FIGURE,Bad,0,Perpetrator

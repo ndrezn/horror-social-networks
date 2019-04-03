@@ -1,0 +1,11 @@
+Name,Quality,Object,Role
+JAY,Good,0,Victim
+PAUL,Good,0,Rescuer
+GREG,Good,0,Victim
+HUGH,Bad,0,Perpetrator
+YARA,Good,0,Rescuer
+KELLY,Good,0,Rescuer
+ANNIE,Good,0,Victim
+HEIGHT,Good,0,Neutral
+REDMOND,Good,0,Neutral
+HANNIGAN,Good,0,Neutral

@@ -1,0 +1,12 @@
+Name,Quality,Object,Role
+chris,Good,0,Victim
+rose,Bad,0,Perpetrator
+missy,Bad,0,Perpetrator
+dean,Bad,0,Perpetrator
+jeremy,Bad,0,Perpetrator
+jim,Bad,0,Perpetrator
+andre,Neutral,0,Victim
+rod,Good,0,Rescuer
+latoya,Neutral,0,Rescuer
+walter,Neutral,0,Victim
+georgina,Neutral,0,Victim

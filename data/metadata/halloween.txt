@@ -1,0 +1,17 @@
+Name,Quality,Object,Role
+LOOMIS,Good,0,Rescuer
+LAURIE,Good,0,Victim
+MICHAEL,Bad,0,Perpetrator
+LYNDA,Good,0,Victim
+TOMMY,Good,0,Victim
+BOB,Neutral,0,Victim
+MARION,Good,0,Victim
+RICHIE,Neutral,0,Neutral
+LONNIE,Neutral,0,Neutral
+KEITH,Neutral,0,Neutral
+JUDITH,Good,0,Victim
+WYNN,Neutral,0,Neutral
+SHAPE,Bad,0,Perpetrator
+BOYFRIEND,Neutral,0,Victim
+SISTER,Neutral,0,Victim
+BRACKETT,Good,0,Rescuer
