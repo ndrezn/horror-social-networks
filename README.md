@@ -3,7 +3,7 @@ This repository is structured with three folders: "raw data", "python scripts", 
 
 "Python scripts" contains two scripts used to generate social networks. "Final graphs" creates one graph for each film representing its social network, and "Graph frames" generates a graph for every scene, slowly growing over time. 
 
-"Visuals" contains several sets of graphs, defined in the folder with a README and with color keys represented as README files in each subfolder. "Gifs" contains the gif representation of the network growing for each film, and the other folders are images showing the final graph using different encodings.
+"Visuals" contains several sets of graphs, defined in the folder with a README and with color keys represented as README files in each subfolder. "Gifs" contains the gif representation of the network growing for each film, and the other folders contain images showing the final graph using different encodings.
 
 
 # Brief essay
